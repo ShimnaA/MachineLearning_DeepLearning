@@ -11,5 +11,13 @@
   
   - Data Preprocessing
       - Missing Values
+          - convert all wrong or dirty values to NaN
+          - Substitute with appropriate values
+          - drop NaN rows
       - Outlier Removal
+          - identify outliers, remove or substitute with appropriate values
+      - Encoding 
+          - Label Encoding, OnehotEncoding
+      - Data Normalization
+          - l1, l2 normalization
       
