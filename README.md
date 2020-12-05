@@ -1,6 +1,9 @@
 **Machine Learning and Deep Learning**
 
   - Python Exercise
+          
+        [Python_Exercise3.ipynb
+      - pyforest library to Lazy import all data science Libraries
   
   - Data Scraping using Scrapy
       - Pagination
@@ -21,3 +24,5 @@
       - Data Normalization
           - l1, l2 normalization
       
+   - ExploratoryDataAnalysis
+        - Titanic Dataset
